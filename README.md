@@ -22,3 +22,6 @@ https://laptrinhx.com/digitalshadows-alert-feeder-for-thehive-an-open-source-and
 How alert feeders work:
 Image.png![image](https://user-images.githubusercontent.com/33244888/111275958-9762a300-8658-11eb-88bb-153a01e4006c.png)
 
+References:
+https://blog.thehive-project.org/category/alert-feeders/
+https://blog.thehive-project.org/2017/06/19/thehive-cortex-and-misp-how-they-all-fit-together/
