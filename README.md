@@ -14,11 +14,11 @@ TheHive can injest alerts from different sources such as SIEMs, emails, etc. The
 https://github.com/TheHive-Project/TheHive4py
 
 
-Alert feeders out in the open:
+Alert feeders out in the open: <br />
 https://github.com/TheHive-Project/Zerofox2TH <br />
 https://github.com/TheHive-Project/Synapse <br />
 https://laptrinhx.com/digitalshadows-alert-feeder-for-thehive-an-open-source-and-free-security-incident-response-platform-1706295445/
 
 How alert feeders work:
-[image](https://user-images.githubusercontent.com/33244888/111275177-b6146a00-8657-11eb-9edf-d98390071210.png)
+(https://user-images.githubusercontent.com/33244888/111275893-7dc15b80-8658-11eb-9b2e-5bcc9cb3d4ce.png)
 
