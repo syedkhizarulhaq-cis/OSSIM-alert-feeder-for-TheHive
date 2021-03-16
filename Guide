@@ -15,5 +15,3 @@ pip3 install theHive4py
 
 Now you can add the path to your app.py file in OSSIM as follow:
 
-
-
