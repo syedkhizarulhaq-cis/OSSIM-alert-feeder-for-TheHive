@@ -15,10 +15,10 @@ https://github.com/TheHive-Project/TheHive4py
 
 
 Alert feeders out in the open:
-https://github.com/TheHive-Project/Zerofox2TH
-https://github.com/TheHive-Project/Synapse
+https://github.com/TheHive-Project/Zerofox2TH <br />
+https://github.com/TheHive-Project/Synapse <br />
 https://laptrinhx.com/digitalshadows-alert-feeder-for-thehive-an-open-source-and-free-security-incident-response-platform-1706295445/
 
 How alert feeders work:
-thehive.png![image](https://user-images.githubusercontent.com/33244888/111275177-b6146a00-8657-11eb-9edf-d98390071210.png)
+[image](https://user-images.githubusercontent.com/33244888/111275177-b6146a00-8657-11eb-9edf-d98390071210.png)
 
