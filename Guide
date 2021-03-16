@@ -1,1 +1,16 @@
+The app.py should be put inside the root folder of OSSIM.
+
+This python file can then be executed from with in the OSSIM when an alert is generated as following:
+
+In OSSIM:
+Go to Configuration -> Threat Intelligence -> Actions < / br>
+
+Now before adding the path to execute the file, install python3 on OSSIM using: </ br>
+
+apt-get install python3 </ br>
+
+After installing python3, you would need to install theHive4py python library: </ br>
+
+pip3 install theHive4py </ br>
+
 
