@@ -20,5 +20,5 @@ https://github.com/TheHive-Project/Synapse <br />
 https://laptrinhx.com/digitalshadows-alert-feeder-for-thehive-an-open-source-and-free-security-incident-response-platform-1706295445/
 
 How alert feeders work:
-(https://user-images.githubusercontent.com/33244888/111275893-7dc15b80-8658-11eb-9b2e-5bcc9cb3d4ce.png)
+Image.png![image](https://user-images.githubusercontent.com/33244888/111275958-9762a300-8658-11eb-88bb-153a01e4006c.png)
 
