@@ -1,3 +1,5 @@
+#Note: Upload this script onto OSSIM and execute it from OSSIM. Select the option of generate alert when the script is executed.
+#Have any questions? Open a issue :)
 import requests
 import sys
 import json
